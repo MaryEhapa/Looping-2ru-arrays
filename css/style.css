@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Nunito', sans-serif;
+}
+
+.content-area{
+    margin-top: 15%;
+}
+
+.hero-bg {
+    background-image: url(../images/dog-1868871.jpg);
+    background-size:cover;
+    background-position:center;
+    background-repeat: no-repeat;
+
+  }
